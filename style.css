@@ -1,0 +1,27 @@
+
+/* Ignore these few lines, you can search up explanations if you'd like */
+* {
+  box-sizing: border-box; /* Makes widths easier to work with */
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+/* Prevent images and videos from too wide */
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Start YOUR CSS here */
+.example {
+  color: skyblue;
+}
+.circle{
+  margin:0 auto;
+}
+
